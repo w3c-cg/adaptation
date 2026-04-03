@@ -13,3 +13,5 @@ What if end-users could dynamically adjust their fine-grained content-related pr
 The [_Adaptation and Personalization Community Group_](https://www.w3.org/community/adaptation/) intends to explore and to discuss these and many more related questions!
 
 Technical topics of interest to our group include artificial intelligence, adaptive hypermedia, adaptive explanation, adaptive learning, adaptive instructional systems, and user modeling.
+
+To browse and participate in our discussion area, please visit [here](https://github.com/w3c-cg/adaptation/issues).
