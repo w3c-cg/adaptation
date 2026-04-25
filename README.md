@@ -2,16 +2,14 @@
 
 ## Welcome
 
-For whom should large-scale repositories of knowledge, e.g., _Wikipedia_, phrase their content: article subject-matter experts, laypeople, or students? Similarly, what about technical documentation? Digital textbooks?
+For whom should online encyclopedias phrase their contents: students, laypeople, or article subject-matter experts? Similarly, what about science news? Digital textbooks? Technical documentation? Scholarly and scientific articles?
 
-What if content authors could provide multiple intended audiences &ndash; differing with respect to their reading levels, language fluencies, and background knowledge &ndash; with multiple interrelated variations of Web resources?
+What if communicators could use artificial-intelligence to create interactive communication artifacts such that end-users could interact with them to select and make use of various features for adaptation and personalization?
 
-What if content authors could provide software with styled content outlines and this software would formulate prompts for and interactions with artificial-intelligence systems to generate natural-language content for multiple intended audiences?
+What if communicators could create audience-independent communication artifacts and use artificial-intelligence technologies to adapt and personalize these for a multitude of intended audiences?
 
-What if end-users could dynamically adjust their fine-grained content-related preferences by adjusting one or more “adaptation parameters” to maximize the subjective readability and comprehensibility of Web resources for themselves?
+The [_Adaptation and Personalization Community Group_](https://www.w3.org/community/adaptation/) intends to explore and to discuss these and many more related questions.
 
-The [_Adaptation and Personalization Community Group_](https://www.w3.org/community/adaptation/) intends to explore and to discuss these and many more related questions!
-
-Technical topics of interest to our group include artificial intelligence, adaptive hypermedia, adaptive explanation, adaptive learning, adaptive instructional systems, and user modeling.
+Topics of interest to our group include artificial intelligence, adaptive hypermedia, adaptive explanation, adaptive learning, adaptive instructional systems, and user modeling.
 
 To browse and participate in our discussion area, please visit [here](https://github.com/w3c-cg/adaptation/issues).
