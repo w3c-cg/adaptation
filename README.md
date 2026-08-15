@@ -12,4 +12,4 @@ The [_Adaptation and Personalization Community Group_](https://www.w3.org/commun
 
 Topics of interest to our group include artificial intelligence, adaptive hypermedia, adaptive explanation, adaptive learning, adaptive instructional systems, and user modeling.
 
-To browse and participate in our discussion area, please visit [here](https://github.com/w3c-cg/adaptation/issues).
+To browse and participate in our discussion area, please visit [here](https://github.com/w3c-cg/adaptation/discussions).
